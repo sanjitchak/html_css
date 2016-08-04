@@ -1,0 +1,221 @@
+body {margin:0;
+	font-family:Arial,Helvetica,freesans,sans-serif;
+	color:#EBFFFF;}
+   #topbar{
+  background-color:#A91717;
+   height:40px;
+   width:100%;}
+   .fixedwidth{
+   width:1100px;
+   margin:0 auto;
+   
+    }
+	#logobbc {
+	padding:5px;
+	float:left;
+	border-right: 1px solid black;
+	padding-right:10px;
+	}
+	#signin1{  
+ padding: 5px 70px 0px 20px;
+	font-weight:bold;
+	font-size:0.9em;
+     float:left; 
+border-right: 1px solid black;
+        }
+	 #signin img {
+	 position:relative;                                     
+	 top:3px;
+	 padding-left:5px;
+	 float:left;	 
+	 
+	 }
+	#newsbar p{float:left;
+	margin:0;
+	 }
+	 #toplist {
+	  
+	 margin:0;
+	 padding:0px;
+	 }
+	  #toplist li {
+	 list-style:none;
+	 
+	 padding: 10px 15px 14px 15px ;
+	 float:left;
+	  
+	 font-weight:bold;
+	 font-size:0.9em;
+	 height:100%;
+	 border-right: 1px solid black;
+	 }
+	 	#toplist p{float:left;
+	margin:0;
+	 }
+	 #toplist ul {
+	 margin :0px;
+	 padding:0px;
+	 }
+	 #signin {
+	  padding-left:10px;
+	  padding-top:7px;
+	 margin:0;
+padding-bottom:11px;
+	  }
+	  #search{
+	  float:left;
+	 padding: 8px;
+	 	 border:none;
+	  }
+	   
+	  #search input {
+	  height:20px;
+	  font-weight:bold;
+	  font-size:0.9em;
+	  padding-left:5px;
+	  background-image:url("./images/mag.png");
+	  background-repeat:no-repeat;
+	  background-position: right center;
+	 border:none;
+	  }
+	  #more{
+	  padding-right:70px;}
+	   #newsbar{
+  background-color:#BB1919;
+
+   height:80px;
+   width:100%;}
+  
+   .break{clear:both;}
+    
+   #newshead {
+   font-size:2.5em;
+padding-top:5px;
+   }
+   
+   #uk {
+   padding-left:20px;
+   font-size:0.9em;}
+   
+   #rss  {float:right;
+    padding-top: 30px;
+   }
+   	#topbar p{float:left;
+	margin:0;
+	 }
+   #topmenu li{
+   list-style:none;
+ font-size:0.8em;
+   border-right: 1px solid #FF0000;
+  background-color:none;
+  padding: 3px 10px 0px 10px;
+ float:left;
+   }
+   #topmenu   ul {
+     background-color:#A91717;
+	  padding: 6px 0px 0 0px;
+	height:23px;
+	  margin-top:0 ;
+	  }
+	  #arrow {
+	  margin-top:-8px;
+	  margin-left:-15px;}
+	  .selected{
+	  background-color:#FFFFFF;
+	  height:20px;
+	  position:relative;
+	  top: -4px;
+	  padding-top:8px !important;
+color:black;	  }
+
+	 #content{
+   
+font-size:0.75em;
+  color:#CFFFFF;
+   width:100%;}
+   .date{
+   font-weight:bold;}
+   h1 {
+   color:#1167A8;
+   font-weight:bold;
+   font-size: 2.5em;
+  }
+  .headline {
+  float:left;}
+  .newsite {
+  
+  color:red;
+  position:relative;
+  left:10px;
+  top:-15px;
+  width:280px;
+  float:left;
+  font-size:1.1em;}
+  .newsite a{
+  text-decoration:none;
+  color:#1167B7;
+  
+  }
+  .newsite a:hover{
+  text-decoration:underline;
+  }
+  a {
+  text-decoration:none;
+  }
+  a:hover
+  {
+  text-decoration:underline;
+  }
+  .wlblock a{
+  color:white;}
+   .clock {background-image:url("./images/clock.PNG");
+	  background-repeat:no-repeat;
+	  background-position:left center;
+	  padding-left:25px;
+	   
+	 }
+	 .links{
+	 line-height:1.6em;}
+	 #why {
+	 margin-left:8px;}
+  #watchlisten{
+  background-color:#EDEDED;
+   
+  width:199px;
+  float:right;
+  position:relative;
+  top:-80px;
+  }
+	  h2 {
+	  color:#117BBF;
+	  font-size: 1.9em;
+	  margin: 10px 0px 8px 8px ;}
+	  .clocks {
+	  float:right;
+	  margin: 15px 8px 8px 0px; }
+	  .arrowwala {
+	   float:left;
+	   border-right: 1px solid white;
+	  }
+	  .wlblock {
+	  float:left;
+	  background-color: blue;
+	  width:71px;
+	  border-right: 1px solid white;
+	  }
+	  .wlblock p{
+	  margin:8px 10px 8px 10px;}
+	  #watchlisten ul {
+	  margin:0px;
+padding: 0px 10px 10px 10px; 	  }
+	  #watchlisten li{
+	  list-style:none;
+	  text-decoration:none;
+	  background-image:url("images/clock.png");
+	  background-repeat:no-repeat; 
+	  background-position:left center;
+	  padding: 10px 0px 10px 30px;
+	  font-size:1.6em;}
+	   .bb {
+	   border-bottom: 1px solid #000000;
+}
